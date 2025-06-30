@@ -1,0 +1,32 @@
+# Context: Student Personas and Scenarios to enable personalized recommendations.
+
+## Persona 1: The High-Achiever (HSC 95%+, GPA 5.0)
+- **Goal:** Get into a top-ranked university with the best brand value and global opportunities. Cost is a secondary concern.
+- **Primary Concerns:** Quality of faculty, research opportunities, international collaborations, and placement in top-tier MNCs.
+- **Best-Fit Universities:**
+  - **Amity University (Noida):** Strong brand, global programs, excellent high-end placements. Eligible for 100% scholarship.
+  - **Galgotias University:** Eligible for 100% scholarship with a very strong placement record in top tech firms.
+- **Advice for this Persona:** Focus on the specific research output of the faculty and the details of the credit transfer programs.
+
+## Persona 2: The Budget-Conscious Student (HSC 75-85%, GPA 3.5-4.5)
+- **Goal:** Get a quality engineering or business degree at the most affordable cost without compromising on essential facilities and job opportunities.
+- **Primary Concerns:** Total cost (tuition + hostel), scholarship reliability, and Return on Investment (ROI) through placements.
+- **Best-Fit Universities:**
+  - **Sharda University:** Offers a 50% scholarship for GPA 3.5+, making it very affordable. Has a good balance of facilities and a large international community.
+  - **Noida International University (NIU):** Has a very low base fee for SAARC students and offers additional merit scholarships, making it one of the most budget-friendly options.
+  - **G.L. Bajaj:** Highly affordable B.Tech fees with a strong placement record, offering high ROI.
+
+## Persona 3: The Diploma Holder (Lateral Entry)
+- **Goal:** Get a B.Tech degree in 3 years and enter the job market quickly.
+- **Primary Concerns:** Which universities offer a smooth lateral entry process, the quality of practical labs, and job placements for lateral entry students.
+- **Best-Fit Institutions:**
+  - **G.L. Bajaj:** Known for its strong focus on core engineering and practical skills, making it ideal for diploma holders.
+  - **Galgotias University:** Has a clear lateral entry pathway and excellent tech placements.
+  - **Sharda University:** Also offers lateral entry with good lab facilities.
+
+## Persona 4: The Aspiring Medical/Paramedical Professional
+- **Goal:** Study a health science course with access to a real hospital for practical training.
+- **Primary Concerns:** Quality of the attached hospital, hands-on patient interaction, and internship opportunities.
+- **Best-Fit Universities:**
+  - **Sharda University:** The on-campus 1600+ bed super-specialty hospital is a major advantage for students in Nursing, BPT, BMLT, and other allied health courses.
+  - **Noida International University (NIU):** Also has an on-campus hospital and offers a wide range of medical and paramedical programs at an affordable cost.
