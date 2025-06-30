@@ -1,0 +1,32 @@
+# Context: Comparative Analysis of Key Universities for Bangladeshi Students
+
+## 1. Quick Comparison Table: Key Metrics
+
+| Feature                 | Sharda University                               | Galgotias University                            | Amity University (Noida)                        | Noida International University (NIU)            | G.L. Bajaj (AKTU)                               |
+|-------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| **Best For**            | Balanced Profile, Global Exposure, Medical      | Strong Placements, Merit Scholarships           | Premium Brand, Global Programs, Research        | High Affordability, Medical & Paramedical       | Focused Engineering, Excellent Placements       |
+| **Approx. B.Tech Fee/Yr** | ~₹1.85L - ₹3.00L                                | ~₹1.89L                                         | ~₹3.80L                                         | ~₹1.40L                                         | ~₹1.45L                                         |
+| **Scholarship Focus**   | CGPA-based (up to 50% for many courses)         | HSC % based (up to 100%)                        | HSC % based (up to 100%)                        | SAARC Fee Slab + Merit (up to 50%)              | Limited, focus on affordable fees               |
+| **Key Selling Point**   | 95+ nationalities, 2+2 credit transfer          | Top-tier tech placements                        | "3 Continent" program, strong brand value       | Most affordable private university option       | High ROI, strong reputation in NCR for placements |
+| **Campus Vibe**         | Large, diverse, multicultural                   | Large, modern, academically focused             | Vibrant, high-energy, many events               | Large, green, developing infrastructure         | Compact, disciplined, academic-focused          |
+| **Affiliation**         | Private University                              | Private University                              | Private University                              | Private University                              | Affiliated to AKTU (State Technical University) |
+
+## 2. Program-Specific Comparisons
+- **B.Tech CSE:**
+  - **Placement Focus:** G.L. Bajaj and Galgotias have a very strong reputation for CSE placements in major IT service companies.
+  - **Brand & Research:** Amity is a premium choice for students targeting global MNCs or research-oriented careers.
+  - **Balanced Choice:** Sharda offers a good balance of international exposure, diverse specializations, and solid placements.
+  - **Affordability:** NIU and G.L. Bajaj are the most budget-friendly options for a B.Tech degree.
+- **BBA/MBA:**
+  - **Global Program:** Amity's "3 Continent" program is unique.
+  - **Specializations:** Sharda and Galgotias offer a wide range of modern specializations like Business Analytics.
+  - **Cost-Effective:** NIU provides the most affordable BBA/MBA programs.
+
+## 3. Choosing Between a University and an Affiliated College
+- **University (Sharda, Amity, Galgotias, NIU):**
+  - **Pros:** Award their own degree, more autonomy in curriculum, often more diverse programs (like Law, Arts), larger campuses, and more vibrant student life.
+  - **Cons:** Can be more expensive.
+- **Affiliated College (G.L. Bajaj):**
+  - **Pros:** Degree awarded by a government state technical university (AKTU), which holds high value. Often more affordable and highly focused on core engineering placements.
+  - **Cons:** Curriculum is set by the university (less flexibility), smaller campus, and fewer non-technical student activities.
+—source: Synthesis of all provided university data for 2025
