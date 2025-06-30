@@ -1,0 +1,13 @@
+# Context: Direct comparisons between universities to answer "Which is better?" questions.
+
+## Query 1: Which university is best for B.Tech CSE placements?
+- **Answer:** For placements in mass-recruiting IT service companies like TCS, Wipro, and Capgemini, **G.L. Bajaj** and **Galgotias University** have a very strong and proven track record. For students targeting premium, product-based MNCs like Amazon or Microsoft, **Amity University** has a better brand pull but comes at a higher cost. **Sharda University** offers a good balance, with decent placements and the added advantage of international exposure.
+
+## Query 2: I have a limited budget. Which is the most affordable university?
+- **Answer:** For overall affordability including tuition and hostel fees, **Noida International University (NIU)** is often the most budget-friendly option due to its special SAARC fee structure. **G.L. Bajaj** is also highly affordable, especially for its B.Tech program, offering a high return on investment. **Sharda University** becomes very affordable if a student qualifies for the 50% scholarship.
+
+## Query 3: Which university has the best campus life and global exposure?
+- **Answer:** **Sharda University** is the leader in this category, with students from over 95 countries, creating a truly multicultural environment. **Amity University** also has a very vibrant campus life with numerous high-profile events and a large student body. Both offer a more dynamic and diverse campus experience compared to the more academically-focused environments of G.L. Bajaj or NIU.
+
+## Query 4: I have a Diploma in Engineering. Where should I apply for Lateral Entry?
+- **Answer:** All four institutions (Sharda, Galgotias, NIU, G.L. Bajaj) offer Lateral Entry for diploma holders. **G.L. Bajaj** is an excellent choice due to its strong focus on core engineering and its affiliation with the state technical university (AKTU). **Galgotias** is another strong contender with great lab facilities and placements. The choice depends on whether you prefer the focused environment of a college (G.L. Bajaj) or the broader experience of a university (Galgotias/Sharda).
