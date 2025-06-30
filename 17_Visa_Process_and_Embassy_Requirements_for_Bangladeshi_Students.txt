@@ -1,0 +1,93 @@
+# Context: Detailed Student Visa Process and Embassy Requirements for Bangladeshi Students applying to Sharda University.
+
+---
+## 1. General Visa Process Overview
+
+The student visa process for Sharda University is designed to be direct and is heavily supported by the university. After a student receives their Provisional Offer Letter and pays the initial admission fee, the university provides the necessary documents to apply for a student visa at the Indian High Commission in Bangladesh.
+
+### Key Documents Provided by Sharda University for Visa:
+1.  **Final Admission Letter:** Confirms the student's secured seat.
+2.  **Visa Recommendation Letter:** A formal letter from the university to the embassy, supporting the student's visa application.
+3.  **Money Receipt / Payment Confirmation:** Proof that the initial admission fee has been paid to the university.
+
+---
+## 2. Required Documents for Visa Submission (at the Indian Embassy/IVAC)
+
+This is a comprehensive checklist of documents that a student must prepare and submit for their visa application.
+
+1.  **University Documents:**
+    - Final Admission Letter from Sharda University.
+    - Offer Letter from Sharda University.
+    - Visa Recommendation Letter from Sharda University.
+    - Money Receipt / Payment Confirmation from Sharda University.
+
+2.  **Personal Documents:**
+    - **Passport:** Original passport with a scanned copy of the front and back pages.
+    - **Photo:** Recent passport-size photograph (2x2 inches, color, white background).
+    - **ID Cards:** Scanned copies of the student's and their parents' National ID (NID) cards.
+    - **Birth Certificate:** A copy of the student's birth certificate.
+
+3.  **Academic Documents:**
+    - **SSC (Class 10):** Marksheet and Certificate.
+    - **HSC (Class 12):** Marksheet and Certificate.
+
+4.  **Financial and Address Proof:**
+    - **Bank Statement:** A statement from a bank showing a minimum balance of **BDT 1,00,000**.
+      - **# Note on Bank Statement:** While some university promotions may suggest no bank statement is needed, the official visa application process often requires it as proof of financial stability. It is highly recommended to prepare this document.
+    - **Proof of Address:** A recent utility bill (e.g., electricity bill from the last 3 months) or a phone bill showing the applicant's name and address.
+
+5.  **Application Form:**
+    - The completed Indian Student Visa Application Form, filled out online and printed.
+
+---
+## 3. Indian High Commission Contact Information (for Visa Queries)
+
+For visa-related inquiries, students can contact the education and visa sections of the Indian High Commission in Dhaka.
+
+- **Primary Education Wing Email:** edu.dhaka@mea.gov.in
+- **Secondary Education Wing Email:** edu1.dhaka@mea.gov.in
+- **Visa Help Desk Email:** visahelp.dhaka@mea.gov.in
+
+---
+## 4. Communication with the Embassy (Sample Email for Appointment Request)
+
+If a student needs to request an urgent appointment, they can use the following email template.
+
+### Sample Email Draft:
+
+**Subject:** Urgent Visa Appointment Request for Sharda University, Gautam Budh Nagar, Greater Noida, Uttar Pradesh, India
+
+**Body:**
+
+Dear Sir/Madam,
+
+I am writing to request an urgent visa appointment at your esteemed embassy/consulate. I have recently enrolled in the Academic Year 2025-26 (July session) at Sharda University, Gautam Budh Nagar, Greater Noida, Uttar Pradesh, India.
+
+Classes have already commenced, and my presence is crucial for academic continuity. I kindly request consideration for the earliest available visa appointment to ensure minimal disruption to my studies.
+
+**My Details:**
+- **Name:** [Your Full Name]
+- **Passport Number:** [Your Passport Number]
+- **University:** Sharda University
+- **Program:** [Your Program Name, e.g., B.Tech in Computer Science]
+- **Session:** Academic Year 2025-26 (July session)
+
+I have attached the necessary documents for your review, including my admission letter, visa application, and passport copy.
+
+Thank you for your prompt attention to this matter. I look forward to hearing from you soon.
+
+Sincerely,
+
+[Your Full Name]
+[Your Contact Phone Number]
+[Your Email Address]
+
+---
+## 5. Summary for AI Agent
+
+- **Visa Type:** Student Visa.
+- **Key University Documents:** Final Admission Letter, Visa Recommendation Letter, and Payment Receipt.
+- **Key Student Documents:** Passport, NID (self and parents), academic certificates (SSC, HSC), and photos.
+- **Financial Requirement:** A bank statement showing a minimum of BDT 1,00,000 is a standard requirement for the visa application.
+- **Application Venue:** Indian Visa Application Center (IVAC) in Bangladesh.
+- **Communication:** Students can email the Indian High Commission directly for urgent appointments using a professional format.
