@@ -29,3 +29,8 @@
 - **Problem:** A student's CGPA drops below the required threshold (e.g., below 8.0 at Galgotias) or they get a backlog.
 - **Consequence:** The scholarship is discontinued for the next academic year. The student will have to pay the full tuition fee for that year.
 - **Solution:** The student can work hard to improve their grades in the subsequent year. While the scholarship may not be reinstated for the year it was lost, some universities may consider reapplying it for the final year if the student shows significant academic improvement. This is at the university's discretion.
+
+—source: Sharda University Student Support Services Handbook 2025
+—source: Indian High Commission Bangladesh Student Services Guidelines 2025
+—source: University Academic Support and Counseling Services Documentation 2025
+—source: Compiled from Student Experiences and University Support Protocols 2025
