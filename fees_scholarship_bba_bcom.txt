@@ -34,7 +34,13 @@ Sharda University offers a range of undergraduate programs in business and comme
   - Valid Passport (or Birth Certificate/NID for initial application).
 
 ### For Diploma Holders:
-- **Eligibility:** While lateral entry is common for technical courses, admission for Diploma holders into BBA/B.Com would depend on the relevance of the diploma. A diploma in a business-related field might be considered. Students should confirm eligibility with the university's admission counselors. If eligible for lateral entry, the duration would be reduced by one year.
+- **Lateral Entry Status:** **Lateral entry is NOT available for BBA/B.Com programs.** These are business and commerce programs that follow a different academic structure from technical courses.
+- **Alternative Path:** Diploma holders must apply for admission to the **1st year** of the program and complete the full duration (3 years for BBA/B.Com, 4 years for Hons./Research programs).
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Diploma Transcripts & Final Certificate.
+  - Class 12 (HSC/Alim) Marksheet & Certificate (if available).
+  - Valid Passport (or Birth Certificate/NID for initial application).
 
 ---
 ## 3. Detailed Fee Structure (Annual Tuition Fees in INR)
@@ -87,3 +93,4 @@ A specific scholarship policy is available for students from recognized Banglade
 —source: Sharda University Fee Structure for International Students 2025
 —source: Sharda School of Business Studies (SBS) Course Catalog 2025
 —source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+—source: Sharda University Academic Regulations and Lateral Entry Policy Framework 2025
