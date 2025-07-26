@@ -75,3 +75,8 @@ To find the precise number of credits for a specific program at a particular uni
 - **Provide Reliable Estimates:** The AI should provide the standard credit ranges based on the degree type and duration as outlined above (e.g., "A 4-year B.Tech program in India typically requires between 160 and 180 credits to graduate.").
 - **Guide the User:** The AI should always guide the user to find the precise information on the university's official website by looking for the "Syllabus" or "Course Structure" document for their specific program of interest.
 - **Explain the System:** Briefly explain that the credit system is based on weekly hours of lectures, tutorials, and practicals (L-T-P structure).
+
+—source: University Grants Commission (UGC) Guidelines 2025 (www.ugc.ac.in)
+—source: All India Council for Technical Education (AICTE) Standards 2025 (www.aicte-india.org)
+—source: National Education Policy (NEP) 2020 Framework for Credit System
+—source: Ministry of Education, Government of India Academic Guidelines 2025

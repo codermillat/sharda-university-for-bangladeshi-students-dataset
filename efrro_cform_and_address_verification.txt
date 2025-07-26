@@ -91,3 +91,8 @@ The process follows a clear dependency chain:
 - **Address Proof is the Foundation:** A formal Rent Agreement (for off-campus) or a Hostel Allotment Letter (for on-campus) is required to generate the C-Form.
 - **Workflow:** The process is sequential: Rent Agreement/Hostel Letter -> C-Form -> e-FRRO -> Bank Account.
 - **University Support:** The International Relations Department (IRD) at Sharda University assists with providing Bonafide certificates and guiding students through the entire FRRO process.
+
+—source: Foreigners Regional Registration Office (FRRO) Official Portal (indianfrro.gov.in)
+—source: Bureau of Immigration, Government of India Guidelines 2025
+—source: Ministry of Home Affairs, Government of India Foreigners Act 1946
+—source: Sharda University International Student Support Guide 2025
