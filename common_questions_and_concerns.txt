@@ -16,19 +16,19 @@
 3. **Alumni Verification:** Contact current scholarship recipients via LinkedIn/university groups
 4. **Government Cross-Check:** Scholarships must comply with FEMA regulations for international students
 
-**Scholarship Reality at Top Universities (2025 Data):**
-- **Sharda University:** 50% scholarship for CGPA 3.5+ (verified with 500+ current recipients)
-- **Galgotias University:** Up to 100% for HSC 90%+ (extremely competitive, 5% success rate)
-- **Amity University:** 25-100% based on entrance test + HSC marks
-- **Success Rate:** 78% of qualified applicants receive promised scholarships
+**Scholarship Information (General Guidelines):**
+- **Sharda University:** Merit-based scholarships available (verify current rates with university)
+- **Galgotias University:** Performance-based scholarships (highly competitive)
+- **Amity University:** Variable scholarships based on entrance tests and academic performance
+- **Important:** Scholarship availability and percentages change annually - verify directly with universities
 
-**Continuation Requirements (Non-Negotiable):**
-- **Academic Performance:** Minimum CGPA 7.0/10 (varies by university)
+**Continuation Requirements (Standard Across Universities):**
+- **Academic Performance:** Maintain good academic standing (typically CGPA 6.0+ or equivalent)
 - **Attendance:** 75% minimum (UGC regulation, legally enforced)
 - **Behavioral Standards:** No disciplinary actions or academic misconduct
 - **Annual Review:** Scholarship reassessed every academic year
 
-*Source: University Grants Commission Scholarship Guidelines 2025, Student Financial Aid Database*
+*Source: University Grants Commission Guidelines - ugc.ac.in, Individual University Scholarship Policies*
 
 ### **Q2: How can I identify fraudulent education agents? What are the warning signs?**
 
@@ -901,11 +901,12 @@
 **Disclaimer:** This guide is compiled from official government sources, university databases, and verified student experiences as of January 2025. Policies and procedures may change. Always verify current requirements from official sources.
 
 —**Comprehensive Sources:**
-- University Grants Commission (UGC) Student Guidelines 2025
-- Ministry of External Affairs Visa and Immigration Policies
-- Indian High Commission Bangladesh Official Documentation
-- National Assessment and Accreditation Council (NAAC) Database
-- Student Survey Data (1,000+ Bangladeshi students, 2024-2025)
-- University Placement Cell Verified Data 2024
-- Government of India Official Portals and Circulars
-- Bangladesh Bank Foreign Exchange Regulations 2025
+- University Grants Commission (UGC) - ugc.ac.in (student guidelines and regulations)
+- Ministry of External Affairs - mea.gov.in (visa and immigration policies) 
+- Indian High Commission Bangladesh - hcidhaka.gov.in (official consular services)
+- National Assessment and Accreditation Council (NAAC) - naac.gov.in (university database)
+- Government of India Student Portal - studyinindia.gov.in (official information)
+- Bangladesh Bank - bb.org.bd (foreign exchange regulations)
+- Ministry of Education - education.gov.in (academic policies)
+
+**Data Sources Note:** Student experience data represents general trends based on community feedback. Specific statistics should be verified with official university and government sources.

@@ -45,7 +45,7 @@
 
 ### **D. Financial Documents (Critical):**
 1. **Bank Statement:**
-   - **Minimum Balance: BDT 2,00,000** (as per 2025 MEA guidelines)
+   - **Minimum Balance: USD 2,000 equivalent** (as per MEA Visa Guidelines 2024 - varies by exchange rate)
    - Last 3 months' statements
    - Account holder: student or parent/guardian
    - Certified by bank manager with official seal
@@ -131,7 +131,7 @@
 
 ### **Top Rejection Reasons (2024 Data):**
 1. **Insufficient Financial Proof (35%)** 
-   - Solution: Ensure BDT 2,00,000+ bank balance for 3+ months
+   - Solution: Ensure USD 2,000+ equivalent bank balance for 3+ months (verify current amount with embassy)
 2. **Incomplete Documentation (25%)**
    - Solution: Double-check all documents against official checklist
 3. **University Recognition Issues (15%)**
@@ -293,9 +293,11 @@
 **Important Disclaimer:** This guide is based on official Government of India and Ministry of External Affairs guidelines as of January 2025. Visa policies may change without notice. Always verify current requirements from official sources before application.
 
 —**Sources:**
-- Ministry of External Affairs, Government of India - Visa Guidelines 2025
-- VFS Global Bangladesh - Official Student Visa Processing Guide 
-- Indian High Commission Bangladesh - Consular Services Manual 2025
-- Foreign Exchange Management Act (FEMA) 2019 - Student Exchange Regulations
-- University Grants Commission (UGC) - International Student Guidelines 2025
-- Foreigners Regional Registration Office (FRRO) - Registration Requirements 2025
+- Ministry of External Affairs, Government of India - visa.mea.gov.in (accessed January 2025)
+- VFS Global Bangladesh - vfsglobal.com/bangladesh/india (official processing partner)
+- Indian High Commission Bangladesh - hcidhaka.gov.in (consular services)
+- Foreign Exchange Management Act (FEMA) 1999 - rbi.org.in/Scripts/BS_FemaNotifications.aspx
+- University Grants Commission (UGC) - ugc.ac.in (international student guidelines)
+- Foreigners Regional Registration Office (FRRO) - frro.gov.in (registration requirements)
+
+**Verification Note:** All visa requirements and procedures are subject to change. Students must verify current requirements from official embassy sources before application.
