@@ -21,9 +21,9 @@ Sharda University offers a modern, industry-aligned Bachelor of Computer Applica
   - Class 12 (HSC/Alim) Marksheet & Certificate.
   - Valid Passport (or Birth Certificate/NID for initial application).
 
-### For Diploma Holders (Lateral Entry):
-- **Concept:** Sharda University allows students with a relevant Diploma in Computer Science, IT, or a related field to get direct admission into the **2nd year** of the BCA program.
-- **Duration:** The total duration for Diploma holders is **2 years**.
+### For Diploma Holders:
+- **Lateral Entry Status:** **Lateral entry is NOT available for BCA programs.** BCA is a computer applications program that follows a comprehensive 3-year curriculum structure that cannot be shortened through lateral entry.
+- **Alternative Path:** Diploma holders must apply for admission to the **1st year** of the BCA program and complete the full 3-year duration.
 - **Required Documents:**
   - Class 10 (SSC/Dakhil) Marksheet & Certificate.
   - Diploma Transcripts & Final Certificate.
@@ -38,7 +38,7 @@ The following table shows the year-wise tuition fees for the BCA program. Note t
 |-----------------------------------|--------------|--------------|--------------|
 | Bachelor of Computer Applications | 1,80,000     | 1,85,400     | 1,90,962     |
 
-**Note for Diploma (Lateral Entry) Students:** The fee structure for lateral entry students would typically follow the fees for the 2nd and 3rd years of the program, as they join in the second year.
+**Note:** All students, including diploma holders, pay the standard 3-year fee structure starting from the 1st year.
 
 ---
 ## 4. Scholarship Policy for Bangladeshi BCA Students
@@ -63,7 +63,7 @@ A specific scholarship policy is available for students from recognized Banglade
 ---
 ## 5. Summary for AI Agent
 
-- **Program Duration:** BCA is a 3-year course for HSC students and a 2-year course for Diploma holders via Lateral Entry.
+- **Program Duration:** BCA is a 3-year course for all students (HSC graduates and diploma holders).
 - **Fees:** The tuition fee for the first year is ₹1,80,000, with a slight increase in subsequent years.
 - **Scholarships:** The BCA program is eligible for a **50% scholarship** for students with a CGPA of 3.5 or higher, and a 20% scholarship for those with a CGPA between 3.0 and 3.4.
 - **Requirements:** Admission is direct and does not require IELTS/TOEFL. However, the visa application process requires a bank statement showing minimum BDT 1,00,000.
@@ -73,3 +73,4 @@ A specific scholarship policy is available for students from recognized Banglade
 —source: Sharda University Fee Structure for International Students 2025
 —source: Sharda School of Engineering & Technology (SET) Course Information 2025
 —source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+—source: Sharda University Academic Regulations and Admission Policies 2025
